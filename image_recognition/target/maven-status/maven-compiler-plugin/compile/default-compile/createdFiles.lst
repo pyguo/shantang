@@ -1,0 +1,4 @@
+com\img\ServletInitializer.class
+com\img\controller\ImgUpload.class
+com\img\controller\DietRecord.class
+com\img\ImageRecognitionApplication.class
